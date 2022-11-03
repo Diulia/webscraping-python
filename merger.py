@@ -24,7 +24,7 @@ def get_all_file_paths(directory):
 
 def main():
     directory = 'anexos/'
-    file_paths = get_all_file_paths(directory)
+    file_paths = ["anexos/pdf2.pdf", "anexos/pdf3.pdf", "anexos/pdf4.pdf", "anexos/pdf5.pdf"]
 
     for file_name in file_paths:
         print(file_name)

@@ -18,7 +18,7 @@ for link in links:
         i += 1
         print("Downloading file: ", i)
         response = requests.get(link.get('href'))
-        pdf = open("pdf"+str(i)+".pdf", 'wb')
+        pdf = open("anexos/pdf"+str(i)+".pdf", 'wb')
         pdf.write(response.content)
         pdf.close()
         print("File ", i, " downloaded")

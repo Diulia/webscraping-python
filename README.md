@@ -11,6 +11,7 @@
 1.2 - Baixar os Anexos I ao Anexo IV
 
 1.3 - Agrupar os anexos em um mesmo arquivo compactado (ZIP, RAR, ...)
+Feito
 </p>
 
 <h3>---- Teste 2 Transformação de dados -----</h3>
