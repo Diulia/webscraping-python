@@ -36,5 +36,7 @@ e Zipar o csv num arquivo "Teste_{seu_nome}.zip".
 
 ---
 > 1 - baixar arquivos - python webscraping.py
+
 > 2 - converter - python convert.py
+
 > 3 - merged files - python merged_csv.py
